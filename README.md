@@ -1,4 +1,3 @@
-cat << 'EOF' > README.md
 # Stuntfree - Backend & Web System
 
 Sistem Prediksi Stunting dan Intervensi Gizi Adaptif Berbasis Machine Learning.
